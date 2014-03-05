@@ -16,13 +16,13 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\twitch_test\twitch-gaming-1317423902919.xml"/>
+<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\TWITCH_BobTim\TWITCHDataMining\DATA\twitch_test\twitch-gaming-1317420903179.xml"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\twitch_test\twitch-gaming-1317424202865.xml"/>
+<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\TWITCH_BobTim\TWITCHDataMining\DATA\twitch_test\twitch-gaming-1317461703545.xml"/>
 </config>
 </config>
 </config>
@@ -43,13 +43,13 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/twitch_test/twitch-gaming-1317423902919.xml"/>
+<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/TWITCH_BobTim/TWITCHDataMining/DATA/twitch_test/twitch-gaming-1317420903179.xml"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/twitch_test/twitch-gaming-1317424202865.xml"/>
+<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/TWITCH_BobTim/TWITCHDataMining/DATA/twitch_test/twitch-gaming-1317461703545.xml"/>
 </config>
 </config>
 </config>

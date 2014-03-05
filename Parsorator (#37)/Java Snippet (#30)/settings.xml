@@ -12,9 +12,9 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="scriptImports" type="xstring" value="// Your custom imports:%%00010"/>
+<entry key="scriptImports" type="xstring" value="// Your custom imports:%%00010import java.text.SimpleDateFormat;"/>
 <entry key="scriptFields" type="xstring" value="// Your custom variables:%%00010"/>
-<entry key="scriptBody" type="xstring" value="// Enter your code here:%%00010date = new Date(Long.parseLong(c_split_0));%%00010%%00010%%00010%%00010"/>
+<entry key="scriptBody" type="xstring" value="// Enter your code here:%%00010SimpleDateFormat myFormat = new SimpleDateFormat(&quot;yyyy-MM-dd;HH:mm:ss.S&quot;);%%00010date = myFormat.format(new Date(Long.parseLong(c_split_0)));%%00010%%00010%%00010%%00010"/>
 <config key="jarFiles">
 <entry key="array-size" type="xint" value="0"/>
 </config>
@@ -23,9 +23,9 @@
 <config key="0">
 <entry key="Name" type="xstring" value="split_0"/>
 <entry key="JavaName" type="xstring" value="date"/>
-<entry key="JavaType" type="xstring" value="java.util.Date"/>
+<entry key="JavaType" type="xstring" value="java.lang.String"/>
 <config key="Type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <entry key="is_null" type="xboolean" value="false"/>
 </config>
 <entry key="replaceExisting" type="xboolean" value="true"/>
@@ -69,6 +69,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="f4e3f384-8a36-47fb-a760-64a6bb74a07c"/>
+<entry key="file_store_id" type="xstring" value="97e3eb40-11c9-4e4e-b737-59502ed24c79"/>
 </config>
 </config>

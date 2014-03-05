@@ -12,7 +12,7 @@
 <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
 </config>
 <config key="model">
-<entry key="DataURL" type="xstring" value="file:/D:/Documents/4if/dataMining/twitch_test/node_names.txt"/>
+<entry key="DataURL" type="xstring" value="file:/D:/Documents/4if/dataMining/TWITCH_BobTim/TWITCHDataMining/DATA/twitch_test/node_names.txt"/>
 <config key="Delimiters">
 <config key="Delim0">
 <entry key="pattern" type="xstring" value="%%00010"/>
@@ -97,7 +97,7 @@
 <entry key="index" type="xint" value="1"/>
 <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
 <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-<entry key="port_object_summary" type="xstring" value="Rows: 42, Cols: 1"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 41, Cols: 1"/>
 <entry key="port_dir_location" type="xstring" value="port_1"/>
 </config>
 </config>

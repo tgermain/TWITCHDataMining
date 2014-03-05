@@ -13,7 +13,7 @@
 </config>
 <config key="model">
 <entry key="EXTENSIONS" type="xstring" value="xml"/>
-<entry key="FILESETTINGS" type="xstring" value="D:\Documents\4if\dataMining\twitch_test"/>
+<entry key="FILESETTINGS" type="xstring" value="D:\Documents\4if\dataMining\TWITCH_BobTim\TWITCHDataMining\DATA\twitch_test"/>
 <entry key="RECURSIVE_SETTINGS" type="xboolean" value="false"/>
 <entry key="FILTER_SETTINGS" type="xstring" value="Extensions"/>
 <entry key="CASESENSITVE" type="xboolean" value="false"/>
@@ -34,6 +34,6 @@
 </config>
 <config key="filestores">
 <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-<entry key="file_store_id" type="xstring" value="954c1374-94f7-4a1d-87a6-c8cad56ebe61"/>
+<entry key="file_store_id" type="xstring" value="703ae493-06cd-4cbb-b3b8-b68f0ace74df"/>
 </config>
 </config>

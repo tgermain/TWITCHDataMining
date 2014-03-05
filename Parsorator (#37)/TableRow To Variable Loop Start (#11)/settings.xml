@@ -48,31 +48,31 @@
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="RowID"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="Row41"/>
+<entry key="value" type="xstring" value="Row28"/>
 </config>
 <config key="Variable_8">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="xpath"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="//channel_view_count"/>
+<entry key="value" type="xstring" value="//channel/status"/>
 </config>
 <config key="Variable_9">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="categorie"/>
 <entry key="class" type="xstring" value="STRING"/>
-<entry key="value" type="xstring" value="channel_view_count"/>
+<entry key="value" type="xstring" value="channel/status"/>
 </config>
 <config key="Variable_10">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="maxIterations"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="42"/>
+<entry key="value" type="xint" value="41"/>
 </config>
 <config key="Variable_11">
 <entry key="type" type="xstring" value="variable"/>
 <entry key="name" type="xstring" value="currentIteration"/>
 <entry key="class" type="xstring" value="INTEGER"/>
-<entry key="value" type="xint" value="41"/>
+<entry key="value" type="xint" value="28"/>
 </config>
 </config>
 <config key="internal_node_subsettings">

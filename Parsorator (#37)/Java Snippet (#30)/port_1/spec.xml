@@ -16,13 +16,13 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\twitch_test\twitch-gaming-1317423902919.xml"/>
+<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\TWITCH_BobTim\TWITCHDataMining\DATA\twitch_test\twitch-gaming-1317420903179.xml"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\twitch_test\twitch-gaming-1317424202865.xml"/>
+<entry key="StringCell" type="xstring" value="D:\Documents\4if\dataMining\TWITCH_BobTim\TWITCHDataMining\DATA\twitch_test\twitch-gaming-1317461703545.xml"/>
 </config>
 </config>
 </config>
@@ -43,13 +43,13 @@
 <config key="0">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/twitch_test/twitch-gaming-1317423902919.xml"/>
+<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/TWITCH_BobTim/TWITCHDataMining/DATA/twitch_test/twitch-gaming-1317420903179.xml"/>
 </config>
 </config>
 <config key="1">
 <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
 <config key="org.knime.core.data.def.StringCell">
-<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/twitch_test/twitch-gaming-1317424202865.xml"/>
+<entry key="StringCell" type="xstring" value="file:/D:/Documents/4if/dataMining/TWITCH_BobTim/TWITCHDataMining/DATA/twitch_test/twitch-gaming-1317461703545.xml"/>
 </config>
 </config>
 </config>
@@ -62,25 +62,22 @@
 <entry key="array-size" type="xint" value="0"/>
 </config>
 <config key="column_type">
-<entry key="cell_class" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
+<entry key="cell_class" type="xstring" value="org.knime.core.data.def.StringCell"/>
 </config>
 <config key="column_domain">
-<config key="lower_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
-<config key="org.knime.core.data.date.DateAndTimeCell">
-<entry key="hasDate" type="xboolean" value="true"/>
-<entry key="hasTime" type="xboolean" value="true"/>
-<entry key="hasMillis" type="xboolean" value="true"/>
-<entry key="timeInMillis" type="xlong" value="1317423902919"/>
+<config key="possible_values">
+<entry key="array-size" type="xint" value="2"/>
+<config key="0">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="2011-10-01;00:15:03.179"/>
 </config>
 </config>
-<config key="upper_bound">
-<entry key="datacell" type="xstring" value="org.knime.core.data.date.DateAndTimeCell"/>
-<config key="org.knime.core.data.date.DateAndTimeCell">
-<entry key="hasDate" type="xboolean" value="true"/>
-<entry key="hasTime" type="xboolean" value="true"/>
-<entry key="hasMillis" type="xboolean" value="true"/>
-<entry key="timeInMillis" type="xlong" value="1317424202865"/>
+<config key="1">
+<entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
+<config key="org.knime.core.data.def.StringCell">
+<entry key="StringCell" type="xstring" value="2011-10-01;11:35:03.545"/>
+</config>
 </config>
 </config>
 </config>
